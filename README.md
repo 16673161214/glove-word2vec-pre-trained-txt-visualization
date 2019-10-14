@@ -1,6 +1,6 @@
 # glove-word2vec-pre-trained-txt-visualization
 * How to use? Just modify the path of the txt.  
-'''python
+```python
 import numpy as np
 f=open(r'C:\Users\Administrator\Desktop\vectors.txt','r')
 weights=[]
@@ -21,4 +21,4 @@ for i in range(len(X_tsne)):
     y=X_tsne[i][1]
     plt.text(x,y,word[i],size=16)
 plt.show()
-'''
+```
