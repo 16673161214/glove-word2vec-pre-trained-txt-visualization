@@ -6,7 +6,7 @@ f=open(r'C:\Users\Administrator\Desktop\vectors.txt','r')
 weights=[]
 word=[]
 for line in f:
-    values=l.split()
+    values=line.split()
     word.append(values[0])
     weights.append(values[1:])
 print()
