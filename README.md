@@ -22,3 +22,5 @@ for i in range(len(X_tsne)):
     plt.text(x,y,word[i],size=16)
 plt.show()
 ```
+* The result likes this:
+![wow!](https://github.com/16673161214/glove-word2vec-pre-trained-txt-visualization/blob/master/gloveresult.jpg)
