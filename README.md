@@ -22,7 +22,7 @@ for i in range(len(X_tsne)):
     plt.text(x,y,word[i],size=16)
 plt.show()
 ```
-* The result likes this:
+* The result likes this:  
 ![wow!](https://github.com/16673161214/glove-word2vec-pre-trained-txt-visualization/blob/master/gloveresult.jpg)
 * The following code can classify 3 clusters of the vectors
 ```python
@@ -75,3 +75,5 @@ for i in range(len(X_tsne)):
     plt.text(x,y,word[i],size=6)
 plt.show()
 ```
+* The result likes this:  
+![wow!](https://github.com/16673161214/glove-word2vec-pre-trained-txt-visualization/blob/master/glove_cluster.jpg)
