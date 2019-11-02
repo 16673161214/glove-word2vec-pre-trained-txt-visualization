@@ -56,7 +56,7 @@ plt.show()
 * The result likes this:  
 ![wow!](https://github.com/16673161214/glove-word2vec-pre-trained-txt-visualization/blob/master/glove_wordclusterupdate.jpg)
 ## Word2vec
-* The following code can classify 3 clusters of the vectors
+* How to use? Just modify the path of the txt.  
 ```python
 #聚类
 from sklearn.cluster import KMeans
@@ -115,4 +115,4 @@ plt.savefig('./word2vec_clusterupdate.jpg')
 plt.show()
 ```
 * The result likes this:  
-![wow!](https://github.com/16673161214/glove-word2vec-pre-trained-txt-visualization/blob/master/glove_cluster.jpg)
+![wow!](https://github.com/16673161214/glove-word2vec-pre-trained-txt-visualization/blob/master/word2vec_clusterupdate.jpg)
