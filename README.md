@@ -54,7 +54,7 @@ plt.savefig('./glove_wordclusterupdate.jpg')
 plt.show()
 ```
 * The result likes this:  
-![wow!](https://github.com/16673161214/glove-word2vec-pre-trained-txt-visualization/blob/master/gloveresult.jpg)
+![wow!](https://github.com/16673161214/glove-word2vec-pre-trained-txt-visualization/blob/master/glove_wordclusterupdate.jpg)
 ## Word2vec
 * The following code can classify 3 clusters of the vectors
 ```python
